@@ -1,4 +1,4 @@
-# Business_Statistics_Ecommerce_Analysis
+# business_statistics_ecommerce_analysis
 Statistical analysis of factors influencing e-commerce customer expenditure using R.
 
 # E-commerce Customer Expenditure Analysis
